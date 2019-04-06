@@ -17,6 +17,7 @@ String brand;
 	comp1.mouse=true;
 	comp1.keyboard=true;
 	comp1.screen=2;
+
 	comp1.ram=8;
 	comp1.os="Windows";
 	comp1.brand="HPOmen";
