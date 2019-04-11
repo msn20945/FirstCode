@@ -9,9 +9,7 @@ public class class2question4 {
 	       System.out.println("We go to the beach");
 	    }else {
 	       System.out.println("We do not go to the beach");
-	    }else {
-	       System.out.println("It is not the summer");
-	    
+	
 	    
 	    
 	    }

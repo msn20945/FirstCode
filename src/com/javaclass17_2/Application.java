@@ -8,9 +8,10 @@ public class Application {
 		// TODO Auto-generated method stub
 
 		Calculator obj=new Calculator();
-		obj.sum(134,567);
+		
 	    obj.div(34,789);
 	    
+
 		
 	}
 
